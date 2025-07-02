@@ -1,3 +1,9 @@
+# Anggota Kelompok :
+1. Sita Novitasari 085023006
+2. Sabran Jamila 085023011
+3. Nehemiah Stephen 085023019
+4. M Reynaldi Bayu Aji 085023012
+
 # Step Over - Aplikasi E-commerce Sepatu
 
 Step Over adalah prototipe aplikasi mobile e-commerce yang berfokus pada penjualan sepatu, dibangun sepenuhnya menggunakan Flutter. Aplikasi ini menampilkan alur kerja lengkap mulai dari halaman pembuka, penjelajahan produk, hingga proses checkout.
